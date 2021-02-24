@@ -14,9 +14,7 @@ void delay_1sec(void){
 }
 
 void main(void){
-  
-  SysTickPeriodSet(12000000); // f = 1Hz para clock = 24MHz
-  
+   
   //inicialização do LED 4
   SysCtlPeripheralEnable(SYSCTL_PERIPH_GPIOF);
   while(!SysCtlPeripheralReady(SYSCTL_PERIPH_GPIOF));  
