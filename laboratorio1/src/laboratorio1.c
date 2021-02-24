@@ -5,6 +5,8 @@
 #include "driverlib/sysctl.h"
 #include "driverlib/systick.h"
 
+#define __SYSTEM_CLOCK    (24000000UL);
+
 uint8_t LED_D4 = 0;
 
 void delay_1sec(void){
