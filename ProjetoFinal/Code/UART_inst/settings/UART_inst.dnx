@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<settings>
+    <Stack>
+        <FillEnabled>0</FillEnabled>
+        <OverflowWarningsEnabled>1</OverflowWarningsEnabled>
+        <WarningThreshold>90</WarningThreshold>
+        <SpWarningsEnabled>1</SpWarningsEnabled>
+        <WarnLogOnly>1</WarnLogOnly>
+        <UseTrigger>1</UseTrigger>
+        <TriggerName>main</TriggerName>
+        <LimitSize>0</LimitSize>
+        <ByteLimit>50</ByteLimit>
+    </Stack>
+    <LMIFTDIDriver>
+        <LMIFTDIserialNo>0F00C316</LMIFTDIserialNo>
+        <LMIFTDIfoundProbes />
+    </LMIFTDIDriver>
+    <DebugChecksum>
+        <Checksum>1226453390</Checksum>
+    </DebugChecksum>
+    <Exceptions>
+        <StopOnUncaught>_ 0</StopOnUncaught>
+        <StopOnThrow>_ 0</StopOnThrow>
+    </Exceptions>
+    <CallStack>
+        <ShowArgs>0</ShowArgs>
+    </CallStack>
+    <Disassembly>
+        <MixedMode>1</MixedMode>
+    </Disassembly>
+    <DisassembleMode>
+        <mode>0</mode>
+    </DisassembleMode>
+    <Breakpoints>
+        <Bp0>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp0>
+        <Bp1>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp1>
+        <Bp2>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp2>
+        <Bp3>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp3>
+        <Bp4>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp4>
+        <Bp5>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp5>
+        <Bp6>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp6>
+        <Bp7>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp7>
+        <Bp8>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp8>
+        <Bp9>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp9>
+        <Bp10>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp10>
+        <Bp11>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp11>
+        <Bp12>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp12>
+        <Bp13>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp13>
+        <Bp14>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp14>
+        <Bp15>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp15>
+        <Bp16>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp16>
+        <Bp17>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp17>
+        <Bp18>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp18>
+        <Bp19>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp19>
+        <Bp20>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp20>
+        <Bp21>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp21>
+        <Bp22>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp22>
+        <Bp23>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp23>
+        <Bp24>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp24>
+        <Bp25>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp25>
+        <Bp26>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp26>
+        <Bp27>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp27>
+        <Bp28>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp28>
+        <Bp29>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp29>
+        <Bp30>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp30>
+        <Bp31>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp31>
+        <Bp32>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp32>
+        <Bp33>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp33>
+        <Bp34>_ "STD_CODE" "{$PROJ_DIR$\src\UART_inst.c}.0.1" 0 0 0 0 "" 0 ""</Bp34>
+        <Count>35</Count>
+    </Breakpoints>
+    <TermIOLog>
+        <LoggingEnabled>_ 1</LoggingEnabled>
+        <LogFile>_ "$PROJ_DIR$\TermIO.log"</LogFile>
+    </TermIOLog>
+    <LogFile>
+        <LoggingEnabled>_ 0</LoggingEnabled>
+        <LogFile>_ ""</LogFile>
+        <Category>_ 0</Category>
+    </LogFile>
+    <Aliases>
+        <Count>0</Count>
+        <SuppressDialog>0</SuppressDialog>
+    </Aliases>
+    <CallStackLog>
+        <Enabled>0</Enabled>
+    </CallStackLog>
+    <CallStackStripe>
+        <ShowTiming>1</ShowTiming>
+    </CallStackStripe>
+</settings>
