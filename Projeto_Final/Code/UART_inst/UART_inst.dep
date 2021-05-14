@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>4</fileVersion>
+    <fileChecksum>2700700356</fileChecksum>
+    <configuration>
+        <name>Debug</name>
+        <outputs>
+            <file>$TOOLKIT_DIR$\inc\c\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\RTX_Config.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\Core\Include\cmsis_version.h</file>
+            <file>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\Core\Include\cmsis_iccarm.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\rtx_lib.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_TM4C1294_TW.__cstat.et</file>
+            <file>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\Core\Include\core_cm4.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_memmap.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\RTX_Config.o</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\pin_map.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\UART_inst.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\sysctl.h</file>
+            <file>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\RTOS2\RTX\Include\rtx_evr.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\UART_inst.__cstat.et</file>
+            <file>$TOOLKIT_DIR$\inc\c\stddef.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\uart.h</file>
+            <file>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\Core\Include\cmsis_compiler.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\gpio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_TM4C1294_TW.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\startup_TM4C1294.o</file>
+            <file>$PROJ_DIR$\Debug\Obj\rtx_lib.o</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\utils\uartstdio.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\RTX_Config.xcl</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+            <file>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\RTOS2\Include\cmsis_os2.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+            <file>$PROJ_DIR$\Debug\Obj\uartstdio.xcl</file>
+            <file>$PROJ_DIR$\Debug\Obj\uartstdio.o</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_ints.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\debug.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\rom_map.h</file>
+            <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\utils\uartstdio.c</file>
+            <file>$PROJ_DIR$\Debug\List\UART_inst.map</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_uart.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+            <file>$TOOLKIT_DIR$\config\linker\TexasInstruments\TM4C1294NC.icf</file>
+            <file>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\RTOS2\RTX\Include\rtx_os.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\inc\hw_types.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\rom.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\systick.h</file>
+            <file>$PROJ_DIR$\Debug\Obj\system_TM4C1294_TW.o</file>
+            <file>$PROJ_DIR$\src\startup_TM4C1294.s</file>
+            <file>$PROJ_DIR$\src\UART_inst.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\UART_inst.pbd</file>
+            <file>$PROJ_DIR$\Debug\Obj\rtx_lib.xcl</file>
+            <file>$PROJ_DIR$\src\RTX_Config.h</file>
+            <file>$PROJ_DIR$\src\system_TM4C1294.h</file>
+            <file>$PROJ_DIR$\src\TM4C1294NCPDT.h</file>
+            <file>$PROJ_DIR$\src\RTX_Config.c</file>
+            <file>$PROJ_DIR$\Debug\Obj\UART_inst.o</file>
+            <file>$PROJ_DIR$\src\system_TM4C1294_TW.c</file>
+            <file>$PROJ_DIR$\..\..\CMSIS-5.6.0\CMSIS\RTOS2\RTX\Library\IAR\IDE\CM4F\Exe\RTX_CM.a</file>
+            <file>$PROJ_DIR$\src\rtx_lib.c</file>
+            <file>$PROJ_DIR$\src\UART_Config.h</file>
+            <file>$PROJ_DIR$\Debug\Exe\UART_inst.out</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\utils\swupdate.h</file>
+            <file>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\driverlib\ewarm\Exe\driverlib.a</file>
+            <file>$PROJ_DIR$\..\..\..\Projetos\EK-TM4C1294_RTOS_IAR8\TivaWare_C_Series-2.1.4.178\driverlib\ewarm\Exe\driverlib.a</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\..\TivaWare_C_Series-2.1.4.178\utils\uartstdio.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 37</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 36</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 8 27 18 13 32 23 34 38 9 49 44 39 48 50 40 14 19 26</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\startup_TM4C1294.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 24</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\UART_inst.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 61</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 16</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 12</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30 28 27 18 13 32 23 5 8 31 17 58 9 21 19 14 51 11 26 34</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\RTX_Config.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 10</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 1</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20 8 27 18 13 32 23 3 0 47 17 5 31</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\system_TM4C1294_TW.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 52</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 6</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 22</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 8 27 18 13 32 23 59 7 2 20 3 0 58 30 14</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\src\rtx_lib.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 25</file>
+                </tool>
+                <tool>
+                    <name>__cstat</name>
+                    <file> 4</file>
+                </tool>
+                <tool>
+                    <name>BICOMP</name>
+                    <file> 56</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 20 8 27 18 13 32 23 3 0 57 47 17 5 31 15</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Debug\Exe\UART_inst.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 43</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 46 68 63 10 25 24 52 61 33 45 41 35</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 66 43</file>
+                </tool>
+            </outputs>
+        </file>
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+    <configuration>
+        <name>Release</name>
+        <outputs />
+        <forcedrebuild>
+            <name>[MULTI_TOOL]</name>
+            <tool>ILINK</tool>
+        </forcedrebuild>
+    </configuration>
+</project>
